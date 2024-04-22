@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-public class Lab08_A {
+public class Compiler1 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("A MINI COMPILER PROJECT FOR CTE711S\n===================================");
